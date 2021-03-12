@@ -12,6 +12,8 @@ npm start
 
 Enter search terms in the search bar and results will appear. 
 
+![ccdc_demo](ccdc_demo.gif)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
