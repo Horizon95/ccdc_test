@@ -1,6 +1,8 @@
 # ccdc_test
 This is my attempt at the CCDC senior test. I enjoyed the challenge because it was with a framework I like but since it was a senior challenge it tested me just enough. The program is not perfect as I still have a lot to learn but I am happy to accept feedback and make better programs in the future. Thanks!
 
+Hosted assessment: https://ccdc-test.netlify.app/
+
 ## Installation
 
 Run with npm start
